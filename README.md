@@ -14,4 +14,7 @@ Yep, Remember I'm not a computer science student.
 $ pip install matplotlib
 $ pip install keras
 $ pip install tensorflow
+$ pip install seaborn
+$ pip install pandas
+$ pip install opencv, pip install opencv-python
 ```
