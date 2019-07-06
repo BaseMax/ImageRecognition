@@ -18,3 +18,9 @@ $ pip install seaborn
 $ pip install pandas
 $ pip install opencv, pip install opencv-python
 ```
+
+
+It requires a powerful system to run it.
+
+Please if you have been run the project completely, check and approach the bugs.
+Thank you.
