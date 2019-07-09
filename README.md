@@ -1,6 +1,6 @@
-# Image Recognition Artificial intelligence (AI)
+# Image Recognition
 
-Recognition of the images with artificial intelligence includes train and tests based on Python.
+Recognition of the images includes train and tests based on Python.
 
 ### Image Processing
 
